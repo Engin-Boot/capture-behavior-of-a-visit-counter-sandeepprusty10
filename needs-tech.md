@@ -15,4 +15,4 @@ Given the sensor is offline
   
 When there is a visit
   
-Then count all the visits during the sensor is offline manually and update it 
+  Then count all the visits during the sensor is offline manually and update it 
