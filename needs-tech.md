@@ -7,7 +7,7 @@ Given the count before server downfall is available
   
 When the server restarts
   
-Then display the count as the count just before downfall of server
+Then display the count as the count before downfall of server
 
 Scenario: Reconcile counts if the sensor is offline for a while
 
